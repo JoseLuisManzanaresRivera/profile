@@ -91,6 +91,8 @@ Es una línea en la que se analizan los impactos de acciones de política sobre 
 
 ### Resultados de investigación. 
 
+Manzanares Rivera, José Luis, 2025, [La ruta del gas natural en el noroeste de México: ¿En búsqueda de la soberanía energética O Profundización de la dependencia externa?](https://drive.google.com/file/d/1GB2UKN4Qx2Q_yAQKAdotrRRK0Y6Kqo-X/view?usp=sharing), en Ramírez Cedillo Eduardo, (Coordinación) Entre la continuidad y avance: perspectivas y retos del nuevo gobierno, *Universidad Autónoma Metropolitana*, pp. 293-324.
+
 Manzanares Rivera, Jose Luis, 2024. [Análisis de la recaudación por el impuesto especial a combustibles en el contexto de sus determinantes externos. In Replanteamiento de la estructura tributaria en México con objetivos de recaudación y distribución](https://drive.google.com/file/d/1FFI16P1DRup-hCvQnM0HhINKVaRKmrhb/view?usp=sharing) (pp. 105-134). **Universidad Autónoma Metropolitana**, Ediciones del Lirio. ISBN 978-607-28-2932-9.
 
 Manzanares Rivera, José Luis,  2020, [In Search for Land and Water: From Chihuahua, Mexico, to Santa Cruz, Bolivia](https://migracionesinternacionales.colef.mx/index.php/migracionesinternacionales/article/view/1920). Vol. 11 *Migraciones internacinales*. DOI https://doi.org/10.33679/rmi.v1i1.1920
@@ -114,6 +116,8 @@ Manzanares Rivera, José Luis,  2013, ["Pobreza y el uso de seguro médico públ
 
 
 ### Developing research
+
++ 
 
 + Remote sensing data analysis
 
