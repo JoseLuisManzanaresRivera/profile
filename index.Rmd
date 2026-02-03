@@ -84,9 +84,7 @@ Manzanares Rivera, José Luis,  2014, ["Uso de agua en la extracción de gas de 
 
 ###  Proyecto: Public Policy Analysis (PPA).
 
-Es una línea en la que se analizan los impactos de acciones de política sobre segmentos de la población específicos. Las publicaciones generadas en esta línea consideran la participación de los mexicanos en Estados Unidos como un eje principal. La investigación generada en El Colef Nogales en esta línea, ha sido referencia de la evaluación que dependencias gubernamentales realizan de sus programas como es el caso de SEDESOL como da cuenta el Informe de Evaluación de la Política de Desarrollo Social 2016 disponible en.
-
-[Informe SEDESOL](https://www.gob.mx/cms/uploads/attachment/file/213012/boletin_140_DGAP.pdf)
+Es una línea en la que se analizan los impactos de acciones de política sobre segmentos de la población específicos. Las publicaciones generadas en esta línea consideran la participación de los mexicanos en Estados Unidos como un eje principal. La investigación generada en El Colef Nogales en esta línea, ha sido referencia de la evaluación que dependencias gubernamentales pioneras de inherente carácter social han realizado de sus programas.
 
 
 ### Resultados de investigación. 
@@ -115,11 +113,11 @@ Manzanares Rivera, José Luis,  2013, ["Pobreza y el uso de seguro médico públ
 
 
 
-### Developing research
+### Developing research topics
 
-+ 
 
-+ Remote sensing data analysis
++ Housing market and migration trends across US Metropolitan Areas
 
-+ Machine learning,  Deep Learning 
+
+
 
