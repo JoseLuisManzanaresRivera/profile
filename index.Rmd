@@ -117,5 +117,5 @@ Manzanares Rivera, José Luis,  2013, ["Pobreza y el uso de seguro médico públ
 
 + Remote sensing data analysis
 
-+ Geo spatial intelligence
++ Machine learning,  Deap Learning 
 
