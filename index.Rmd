@@ -1,9 +1,9 @@
 ---
 title: "José Luis Manzanares Rivera"
 ---
-```{r,echo = FALSE,out.width = "100px"}
+```{r, echo = FALSE, out.width = "7%"}
 
-knitr::include_graphics("jlmr2026.jpeg")
+knitr::include_graphics("yo_junio2026.jpeg")
 ```
 
 
